@@ -1,0 +1,6 @@
+This project is dedicated to changing output code.
+Console input: /file.txt --comments --identation=tabs --identation=spaces
+--newline=CRLF --newline=LF
+With those operations you can remove the comments from the code(--comments) 
+replace tabs and spaces with each other(identation=?) and replacing the
+end of line with /r/n and /n(newline=?).
